@@ -1,12 +1,12 @@
 //day1
-var expenses=[12000,13000,14000,15000,11000,25000,17000]
+//var expenses=[12000,13000,14000,15000,11000,25000,17000]
 //print highest exp
 //print lowest exp
 //print etra monthil above 15000 ayittnd
 //print avg exp
 
-var arr=[2,4,6,3]   //[13,11,9,12]
-var arr=[1,2,3,4]  //sum=6 {2,4}  sum=5 {2,3}{1,4}   sum=7 {3,4} 
+//var arr=[2,4,6,3]   //[13,11,9,12]
+//var arr=[1,2,3,4]  //sum=6 {2,4}  sum=5 {2,3}{1,4}   sum=7 {3,4} 
 
 //day2
 
@@ -33,4 +33,9 @@ var products=[
 
     //print number of items in shop
     //print number of available items
+    //var avail_items=products.filter(items=>items[3]>0)
+    //console.log(avail_items);
+
+
     //print all product names only
+
